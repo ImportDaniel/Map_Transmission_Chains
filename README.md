@@ -1,2 +1,3 @@
-# Map_Transmission_Chains
-Script Python que plota dados epidemiológicos de clusters de transmissão no mapa do Brasil, permitindo visualizar a dinâmica de transmissão de uma epidemia.
+# Scripts_Python_Bioinformatica
+Alguns scripts Python que criei ou adaptei para realização de análises de bioinformática
+e plotagem de dados relacionados a epidemiologia, árvores filogenéticas, cadeias de transmissão etc.
